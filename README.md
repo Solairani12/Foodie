@@ -1,4 +1,4 @@
-# Foodie
+# FOODIE 
 
 ## Using Languages 
 
@@ -7,7 +7,6 @@ html,
 css,
 
 javascript,
-
 
 ## Installation
 
